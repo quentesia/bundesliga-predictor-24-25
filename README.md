@@ -14,26 +14,26 @@ Welcome to the Bundesliga Predictor for the 2024/2025 season! This project aims 
 
 ## Derived Results
 
-| Rank | Team Name                | Team ID | Points |
-|------|--------------------------|---------|--------|
-| 0    | Bayer Leverkusen         | 6       | 100    |
-| 1    | Borussia Dortmund        | 7       | 94     |
-| 2    | FC Bayern München        | 40      | 81     |
-| 3    | VfB Stuttgart            | 16      | 72     |
-| 4    | RB Leipzig               | 1635    | 69     |
-| 5    | 1. FC Heidenheim 1846    | 989     | 48     |
-| 6    | Holstein Kiel            | 834     | 48     |
-| 7    | TSG 1899 Hoffenheim      | 175     | 43     |
-| 8    | 1. FSV Mainz 05          | 81      | 38     |
-| 9    | FC Augsburg              | 95      | 36     |
-| 10   | VfL Bochum               | 129     | 35     |
-| 11   | Borussia Mönchengladbach | 87      | 35     |
-| 12   | Eintracht Frankfurt      | 91      | 34     |
-| 13   | VfL Wolfsburg            | 131     | 33     |
-| 14   | SC Freiburg              | 112     | 29     |
-| 15   | Werder Bremen            | 134     | 28     |
-| 16   | FC St. Pauli             | 98      | 28     |
-| 17   | 1. FC Union Berlin       | 80      | 26     |
+| Rank | Team Name                | Points |
+|------|--------------------------|--------|
+| 0    | Bayer Leverkusen         | 100    |
+| 1    | Borussia Dortmund        | 94     |
+| 2    | FC Bayern München        | 81     |
+| 3    | VfB Stuttgart            | 72     |
+| 4    | RB Leipzig               | 69     |
+| 5    | 1. FC Heidenheim 1846    | 48     |
+| 6    | Holstein Kiel            | 48     |
+| 7    | TSG 1899 Hoffenheim      | 43     |
+| 8    | 1. FSV Mainz 05          | 38     |
+| 9    | FC Augsburg              | 36     |
+| 10   | VfL Bochum               | 35     |
+| 11   | Borussia Mönchengladbach | 35     |
+| 12   | Eintracht Frankfurt      | 34     |
+| 13   | VfL Wolfsburg            | 33     |
+| 14   | SC Freiburg              | 29     |
+| 15   | Werder Bremen            | 28     |
+| 16   | FC St. Pauli             | 28     |
+| 17   | 1. FC Union Berlin       | 26     |
 
 As a Bayern Munich fan, I am quite disappointed with these results. However, data doesn't lie and we need to follow and quietly hope for an unxpected result!
 
